@@ -10,6 +10,8 @@ I focus on building practical projects to better understand machine learning con
 
 ## About Me
 
+* Currently a student at AGH University of Kraków, studying Data Science
+* Member of the DataTeam Academic Circle
 * Currently working as a Unity Developer
 * Expanding my knowledge in Machine Learning and AI
 * Goal: Build applications that are useful, scalable, and data-driven
