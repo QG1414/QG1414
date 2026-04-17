@@ -69,8 +69,6 @@ https://github.com/QG1414/OutbreakLab
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=QG1414\&show_icons=true\&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QG1414\&layout=compact\&exclude_repo=T3G-Presentations-Projects,RoomEscape,HackYeah2024,Delore,HackYeah2023,NASA-hackathon,Delhi-Metro-Network-Analysis)
-
 ---
 
 ## Connect With Me
